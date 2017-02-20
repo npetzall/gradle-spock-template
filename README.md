@@ -1,5 +1,10 @@
 # Gradle project template with Spockframework, jacoco, jmh
 
+## Links
+[Spockframework](http://spockframework.org/)  
+[Jacoco](http://www.eclemma.org/jacoco/)  
+[JMH](http://openjdk.java.net/projects/code-tools/jmh/)
+
 Nils remember:
 ```
 git clone git@github.com:npetzall/gradle-spock-template.git <new project name>
